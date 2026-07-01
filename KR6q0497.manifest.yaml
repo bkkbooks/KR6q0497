@@ -1,0 +1,313 @@
+canonical_identifier: bkk:krp/KR6q0497/v1
+canonical_location: https://kanripo.org/bkk/KR6q0497/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 智覃正禪師語錄
+  identifiers:
+    alt_id:
+    - J36nB358
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J36/J36nB358.xml
+    old_id: J36nB358
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0497_000.yaml, hash: 'sha256:1bb4973a4ca2c074bec4b764c73c9a609c1a4b900ab258be8d537f52aed085c5'}
+  - {seq: 1, filename: KR6q0497_001.yaml, hash: 'sha256:1ff94f2a4ed8491c376156c0c5249a648147d139e8e64e8f0c923ac77e17ffbd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0497_000.markers.yaml, hash: 'sha256:7b8bbb4d0b41d5021da03e09e64e64a44cc0738f5075a1719bc3aee544e43282'}
+  - {seq: 1, role: markers, filename: assets/KR6q0497_001.markers.yaml, hash: 'sha256:20a76c0c920f59d68ccd96b27217460ff6bd076d0347af89ef74b251d232f097'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0497_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7782
+  label: 智覃正禪師住安陸府西來禪寺語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-2
+    span:
+    - body
+    - 2303
+    - 2303
+  label: 佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-3
+    span:
+    - body
+    - 3730
+    - 3730
+  label: 讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-4
+    span:
+    - body
+    - 3731
+    - 3731
+  label: 香嚴宕老和尚像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-5
+    span:
+    - body
+    - 3848
+    - 3848
+  label: 西來本師秀老和尚像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-6
+    span:
+    - body
+    - 3931
+    - 3931
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-7
+    span:
+    - body
+    - 5510
+    - 5510
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-8
+    span:
+    - body
+    - 6714
+    - 6714
+  label: 聯芳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-9
+    span:
+    - body
+    - 6716
+    - 6716
+  label: 天序能上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-10
+    span:
+    - body
+    - 6751
+    - 6751
+  label: 機先瑩上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-11
+    span:
+    - body
+    - 6786
+    - 6786
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-12
+    span:
+    - body
+    - 6786
+    - 6786
+  label: 次韻山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-13
+    span:
+    - body
+    - 6874
+    - 6874
+  label: 山中四儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-14
+    span:
+    - body
+    - 6974
+    - 6974
+  label: 牧牛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-15
+    span:
+    - body
+    - 6977
+    - 6977
+  label: 尋牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-16
+    span:
+    - body
+    - 7007
+    - 7007
+  label: 見跡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-17
+    span:
+    - body
+    - 7037
+    - 7037
+  label: 見牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-18
+    span:
+    - body
+    - 7067
+    - 7067
+  label: 得牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-19
+    span:
+    - body
+    - 7097
+    - 7097
+  label: 牧牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-20
+    span:
+    - body
+    - 7127
+    - 7127
+  label: 騎牛到家
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-21
+    span:
+    - body
+    - 7159
+    - 7159
+  label: 忘牛存人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-22
+    span:
+    - body
+    - 7191
+    - 7191
+  label: 人牛俱忘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-23
+    span:
+    - body
+    - 7223
+    - 7223
+  label: 返本還源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-24
+    span:
+    - body
+    - 7255
+    - 7255
+  label: 入廛垂手
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-25
+    span:
+    - body
+    - 7287
+    - 7287
+  label: 十二時歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0497_J_001-mulu-26
+    span:
+    - body
+    - 7579
+    - 7579
+  label: 黃龍三關
+  type: mulu
+  level: 1
+hash: sha256:bc6132d487126774b5b61e0334a69a487e8fd1ef6930fd0f18d01e0bc5e6ada9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
