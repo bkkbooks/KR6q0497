@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0497/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 智覃正禪師語錄目錄目錄上堂小參示眾法語像讚拈古偈頌雜著
   hash: sha256:f539d230625e5be9700cac60a9ffe66553cab2e838ffde74227531461c120e5d
   markers:
   - {type: 其他, offset: 0, content: 目錄, id: KR6q0497_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 智覃正禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J36/J36nB358.xml
     old_id: J36nB358
-hash: sha256:1adcb85320375d9f65787ee41565f5c9b26d669d718cadee2167d2362aea60b9
+hash: sha256:62903547a0364bd074ba0b23bc9465d186253818c848a690596bd8e4bfb490c7
